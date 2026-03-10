@@ -1,0 +1,5 @@
+{
+  "name": "Predictor de Siniestros de Vehículos",
+  "description": "Aplicación basada en un árbol de decisión para predecir la probabilidad de siniestros vehiculares según diversos factores del conductor y el vehículo.",
+  "requestFramePermissions": []
+}
